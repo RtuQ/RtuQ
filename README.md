@@ -28,6 +28,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=RtuQ&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=RtuQ&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RtuQ&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RtuQ&theme=tokyonight&hide_border=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&short_numbers=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
