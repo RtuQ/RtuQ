@@ -8,7 +8,7 @@
 ## 🧠 About Me
 - 💡 专注嵌入式系统、通信协议、终端工具
 - 🦀 Rust / C / C++ / Python
-- 🖥️ 喜欢写 CLI / TUI（ratatui / crossterm）
+- 🖥️ 喜欢写 CLI / TUI
 - 🌐 Matter / CHIP / MQTT / BLE / Wi-Fi
 
 ---
